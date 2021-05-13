@@ -9,5 +9,8 @@ object Euler_Project {
     println("problem5: ", problem5(20))
     println("problem6: ", problem6())
     println("problem7: ", problem7())
+    println("problem8: ", problem8())
+    println("problem9: ", problem9(1000))
+    println("problem10: ", problem10(2000000))
   }
 }
